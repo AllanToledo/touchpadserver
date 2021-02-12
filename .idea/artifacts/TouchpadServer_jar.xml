@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TouchpadServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TouchpadServer_jar</output-path>
+    <root id="archive" name="TouchpadServer.jar">
+      <element id="module-output" name="TouchpadServer" />
+    </root>
+  </artifact>
+</component>
